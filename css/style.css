@@ -2,15 +2,13 @@
 
 body {
     font-family: "lato";
-}
-
-.jumbotron {
-    background-image: url("/images/stars.jpg");
-    background-size: cover;
-    height: 1000px;
-    color: white;
+    background-image: url(/images/stars.jpg);
 }
 
 .navbar {
     background-color: black;
+}
+
+footer p {
+    color: white;
 }
